@@ -195,6 +195,7 @@ return [
         Someline\Providers\ApiServiceProvider::class,
         Someline\Providers\RepositoryServiceProvider::class,
         Someline\Providers\PolymorphicServiceProvider::class,
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
     ],
 
