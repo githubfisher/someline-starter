@@ -25,6 +25,7 @@
     "vue": "^2.2.4"
   },
   "dependencies": {
+    "ajv": "^5.0.0",
     "autosize": "^3.0.20",
     "babel-polyfill": "^6.23.0",
     "browser-sync": "^2.18.13",
